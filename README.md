@@ -30,7 +30,7 @@ The latest version of the app can always be found on the [releases page](https:/
 
 ## Feedback
 
-If you have any suggestions, questions, or if you find a bug, please create an **[Issue](https://www.google.com/search?q=https://github.com/Niharoshka/hdrezka_client_release/issues)** in this repository.
+If you have any suggestions, questions, or if you find a bug, please create an **[Issue](https://github.com/Niharoshka/hdrezka_client_release/issues/new)** in this repository.
 
 -----
 
