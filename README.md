@@ -1,4 +1,8 @@
 
+<img src="https://github.com/user-attachments/assets/309bbf6b-b03a-41f6-902f-47230b76c560" width="300" alt="Screenshot_20251027_231547">
+
+<img src="https://github.com/user-attachments/assets/5b84dba5-f41b-4442-b550-d0cf7a11ade4" width="300" alt="Screenshot_20251027_231547">
+
 # HDRezka Client
 
 A client for conveniently watching movies and TV series from the popular HDRezka website.
