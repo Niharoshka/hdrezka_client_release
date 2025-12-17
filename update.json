@@ -1,4 +1,6 @@
 {
-'version': '0.3.8'
-'url': 'http://test.org/'
+  "version": "0.3.8",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/v1.2.0/app-release.apk",
+  "changelog": "🎨 Новый оранжевый дизайн\n✨ Блюренный фон на странице фильма\n🔧 Исправлены ошибки\n⚡ Улучшена производительность",
+  "is_required": false
 }
