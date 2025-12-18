@@ -1,6 +1,6 @@
 {
-  "version": "0.3.8",
+  "version": "0.4.0",
   "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.3.2/hdrezka-client-arm64-v8a-v0.3.2-beta.apk",
-  "changelog": "🎨 Новый оранжевый дизайн\n✨ Блюренный фон на странице фильма\n🔧 Исправлены ошибки\n⚡ Улучшена производительность",
+  "changelog": "🎨 Поправлен UI\n✨ Добавлены закладки\n🔧 Исправлены ошибки\n⚡ Улучшена производительность",
   "is_required": false
 }
