@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.4/hdrezka-client-arm64-v8a-v0.4.4-beta.apk",
-  "changelog": "- Добавлено переключение серий в интерфейсе плеера.\n- Исправлен загрузчик.\n- Перерисован UI",
-  "is_required": false
+  "version": "0.4.5",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.5/hdrezka-client-arm64-v8a-v0.4.5-beta.apk",
+  "changelog": "- Исправлены ошибки.\n- Обновлен плеер.\n- Перерисован UI",
+  "is_required": true
 }
