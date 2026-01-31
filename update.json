@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.5/hdrezka-client-arm64-v8a-v0.4.5-beta.apk",
-  "changelog": "- Исправлены ошибки.\n- Обновлен плеер.\n- Перерисован UI",
+  "version": "0.4.6",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.6/hdrezka-client-arm64-v8a-v0.4.6-beta.apk",
+  "changelog": "- Исправлены критические ошибки.",
   "is_required": true
 }
