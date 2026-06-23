@@ -1,7 +1,7 @@
+<img width="270" height="585" alt="Screenshot_20260623_052021_HDRezka" src="https://github.com/user-attachments/assets/8e031a52-b09d-4f87-9c6e-c7c4dcbbad70" />
+<img width="270" height="585" alt="Screenshot_20260623_052014_HDRezka" src="https://github.com/user-attachments/assets/772c5b6d-4fef-48fc-a77e-5fa220c93015" />
+<img width="270" height="585" alt="Screenshot_20260623_052001_HDRezka" src="https://github.com/user-attachments/assets/7e736f5a-c4d8-4cff-99f6-f4a7cc23abc0" />
 
-<img src="https://github.com/user-attachments/assets/309bbf6b-b03a-41f6-902f-47230b76c560" width="300" alt="Screenshot_20251027_231547">
-
-<img src="https://github.com/user-attachments/assets/5b84dba5-f41b-4442-b550-d0cf7a11ade4" width="300" alt="Screenshot_20251027_231547">
 
 # HDRezka Client
 
