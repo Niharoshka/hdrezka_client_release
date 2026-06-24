@@ -1,6 +1,6 @@
 {
   "android":{
-    "version": "0.1.0",
+    "version": "0.1.1",
   "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.1.0/HDRezka-v0.1.0-release.apk",
   "changelog": "- Бета релиз.",
   "is_required": true
