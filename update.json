@@ -2,7 +2,7 @@
   "android":{
     "version": "0.1.1",
   "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.1.1/HDRezka-v0.1.1-release.apk",
-  "changelog": "- Улучшено управление на TV \n- Автопереключение серии",
+  "changelog": "- Улучшено управление на TV \n- Автопереключение серии \n- Исправлен загрузчик",
   "is_required": false
   },
   "desktop":{
