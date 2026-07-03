@@ -1,12 +1,12 @@
 {
   "android":{
-    "version": "0.1.1",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.1.1/HDRezka-v0.1.1-release.apk",
-  "changelog": "- Улучшено управление на TV \n- Автопереключение серии \n- Исправлен загрузчик файлов",
+    "version": "0.1.2",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.1.2/HDRezka-v0.1.2-release.apk",
+  "changelog": "- Добавлена страница загрузок, для лучшего отслеживания \n- Добавлена кнопка запуска видео в другом плеере \n- В настройках добавлены фильтры отображения фильмов/сериалов по По странам \n- Улучшено управление для TV \n- Исправлены ошибки",
   "is_required": false
   },
   "desktop":{
-    "version": "0.1.1",
+    "version": "0.1.2",
   "url": "none",
   "changelog": "- Test1. \n- Test2 \n- Test3",
   "is_required": true
