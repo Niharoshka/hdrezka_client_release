@@ -1,0 +1,47 @@
+{
+  "mirrors":{
+    "main": [
+    "hdrezka.website",
+    "hdrezka-home.tv",
+    "omnirezka.tv",
+    "hello-rezka.tv",
+    "hdrezka.name",
+    "hdrezka.sh",
+    "hdrezka.tw",
+    "hdrezka.in",
+    "hdrezka.club",
+    "kinopub.me",
+    "rezka-kz.tv",
+    "rezka-ua.net",
+    "rezka-ua.org",
+    "rezka-ua.in",
+    "rezka-ua.co",
+    "rezka-ua.club",
+    "hdrezka.kim",
+    "rezka-ua.pub",
+    "rezka.pub",
+    "rezkery.com",
+    "rezka-ua.tv",
+    "hdrezka-concord.net",
+    "hdrezka-fly.net",
+    "hdrezka-sonic.net",
+    "hdrezka.hk"
+  ],
+  "cloudflare": [
+    "hdrezka.loan",
+    "hdrezka.ink",
+    "hdrezka.tips",
+    "hdrezka.tv",
+    "hdrezka.win",
+    "hdrezka.solutions",
+    "hdrezka.rest",
+    "hdrezka.city",
+    "hdrezka.buzz",
+    "hdrezka.co",
+    "hdrezka.center",
+    "hdrezka.fyi",
+    "hdrezka.run",
+    "hdrezka.vip"
+  ]
+  }
+}
