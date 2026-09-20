@@ -1,7 +1,7 @@
 {
   "android":{
     "version": "0.3.0",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.2.1/HDRezka-v0.2.1-release.apk",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.3.0/HDRezka-v0.3.0-release.apk",
   "changelog": "- Добавлен новый источник видео Collapse \n- Добавлена синхронизация истории через GitHub(тест) \n- Добавлены декодеры для встроенного плеера(должно исключить ошибки со звуком) \n- Другие исправления и улучшения",
   "is_required": false
   },
