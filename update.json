@@ -1,8 +1,8 @@
 {
   "android":{
-    "version": "0.3.0",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.3.0/HDRezka-v0.3.0-release.apk",
-  "changelog": "- Добавлен новый источник видео Collapse \n- Добавлена синхронизация истории через GitHub(тест) \n- Добавлены декодеры для встроенного плеера(должно исключить ошибки со звуком) \n- Другие исправления и улучшения",
+    "version": "0.3.1",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.3.1/HDRezka-v0.3.1-release.apk",
+  "changelog": "- Добавлена настройка включения/выключения автопереключения серий и сезонов \n- Добавлена опция отображения текущего времени в плеере \n- Добавлена новая страница подборок фильмов \n- Добавлена кнопка голосового поиска \n- Мелкие правки интерфейса",
   "is_required": false
   },
   "desktop":{
