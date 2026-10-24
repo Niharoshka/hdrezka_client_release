@@ -1,8 +1,8 @@
 {
   "android":{
-    "version": "0.4.1",
-  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.1/HDRezka-v0.4.1-release.apk",
-  "changelog": "- Исправлены ошибки",
+    "version": "0.4.2",
+  "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.2/HDRezka-v0.4.2-release.apk",
+  "changelog": "- Добавлен новый источник Flix. \n- Улучшена облачная синхронизация данных через GitHub. \n- Исправлены мелкие ошибки и повышены общий комфорт и стабильность работы приложения.",
   "is_required": false
   },
   "desktop":{
