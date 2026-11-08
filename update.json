@@ -1,6 +1,6 @@
 {
   "android":{
-    "version": "0.4.4",
+    "version": "0.4.3",
   "url": "https://github.com/Niharoshka/hdrezka_client_release/releases/download/0.4.3/HDRezka-v0.4.3-release.apk",
   "changelog": "- Улучшена страница закладок. \n- Добавлена настройка синхронизации громкости плеера с устройством. \n- Добавлена возможность поменять местами жесты и индикаторы громкости и яркости. \n- Исправлены некоторые ошибки.",
   "is_required": false
